@@ -33,7 +33,7 @@ https://www.jetbrains.com/pycharm/
 https://inventwithpython.com/
 
 ## vibe coding tools
-Tools that al
+Some tools that allow writing of prompt to generate code
 1. Cline
 https://cline.bot/
 
