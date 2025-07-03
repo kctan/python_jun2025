@@ -32,6 +32,13 @@ https://www.jetbrains.com/pycharm/
 ## Some Free Online Python ebooks 
 https://inventwithpython.com/
 
+## vibe coding tools
+Cline
+https://cline.bot/
+
+Read the document here for instruction to install the software
+https://docs.cline.bot/getting-started/for-new-coders
+
 ## Free course (for now) by DeepLearning.ai (Learning python with the help of Gen AI)
 https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
