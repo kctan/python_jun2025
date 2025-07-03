@@ -38,13 +38,13 @@ Tools that al
 https://cline.bot/
 
 - Read the document here for instruction to install the software
-https://docs.cline.bot/getting-started/for-new-coders
+- https://docs.cline.bot/getting-started/for-new-coders
 
 2. Github Copilot
 https://docs.github.com/en/copilot
 
 - Read the document here for instruction to install the software
-https://docs.github.com/en/copilot/get-started/quickstart
+- https://docs.github.com/en/copilot/get-started/quickstart
 
 3. Other vibe coding software
 - cursor (https://cursor.com/en)
